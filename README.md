@@ -111,6 +111,3 @@ These results describe performance on the current test cases only. They do **not
 - Track false-positive and false-negative rates by criterion.
 - Improve the interface and exportable report format based on user feedback.
 
-## Portfolio summary
-
-**AI Content QA Assistant** is a rule-based content review tool that scores text across seven quality criteria and recommends whether it should be published, revised, or rejected. It includes safety-first decision logic, actionable feedback, and automated tests for standard and adversarial examples.
